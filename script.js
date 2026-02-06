@@ -31,7 +31,7 @@ function showLove() {
 }
 
 // ❤️ CHANGE THIS DATE
-const loveDate = new Date("2026-01-09");
+const loveDate = new Date("2025-12-17");
 
 setInterval(() => {
   const now = new Date();
